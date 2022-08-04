@@ -13,7 +13,7 @@ Major: Statistics
 Minor: Computer Science
 
 ### Research Interests:
-Machine Learning, Reinforcement Learning, Computer Music.
+Machine Learning, Reinforcement Learning, Computer Music (Music Generation), Time Series
 
 ### Education/Experience:
 The Chinese University of Hong Kong, Faculty of Science, Department of Statistics, 2018-2023
