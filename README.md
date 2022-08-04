@@ -1,4 +1,4 @@
-### Personal Information
+### Personal Information:
 
 Name: WANG Yu
 Birthdate: 2000/11/11
