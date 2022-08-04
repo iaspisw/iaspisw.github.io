@@ -1,5 +1,3 @@
-### Hi 
-
 ### Personal Information
 
 Name: WANG Yu
