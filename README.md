@@ -22,4 +22,5 @@ Email: iaspisw@outlook.com
 
 ### To be finished:
 
-
+1. MusicHelmholtzMachine
+2. MusicRBM
