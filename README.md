@@ -19,3 +19,7 @@ Part-time Music Production. Love Anime.
 
 ### Contact:
 Email: iaspisw@outlook.com
+
+### To be finished:
+
+
