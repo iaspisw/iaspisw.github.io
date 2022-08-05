@@ -8,10 +8,6 @@ Name: WANG Yu
 
 Birthdate: 2000/11/11
 
-Major: Statistics
-
-Minor: Computer Science
-
 ### Research Interests:
 Machine Learning, Reinforcement Learning, Computer Music (Music Generation), Time Series
 
