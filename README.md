@@ -9,7 +9,7 @@ Name: WANG Yu
 Birthdate: 2000/11/11
 
 ### Research Interests:
-Machine Learning, Reinforcement Learning, Computer Music (Music Generation), Time Series
+Machine Learning, Reinforcement Learning, Computer Music (Music Generation), Time Series, Generative Model
 
 ### Education/Experience:
 The Chinese University of Hong Kong, Faculty of Science, Department of Statistics, 2018-2023
