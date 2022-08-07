@@ -21,9 +21,9 @@ Part-time Music Production. Love Anime.
 Email: iaspisw@outlook.com
 
 ### Research Experience:
-Conducted research on music generation by natural language processing method. Optimized and remodeled current music generation models: Music VAE and Music Transformer from the Google Magenta Project.
+Optimized and remodeled current music generation models: Music VAE and Music Transformer from the Google Magenta Project.
 
-### To be finished:
+### To be Finished:
 
 1. MusicHelmholtzMachine
 2. MusicRBM
