@@ -11,7 +11,7 @@ Birthdate: 2000/11/11
 ### Research Interests:
 Machine Learning, Reinforcement Learning, Computer Music (Music Generation), Time Series, Generative Model
 
-### Education/Experience:
+### Education:
 The Chinese University of Hong Kong, Faculty of Science, Department of Statistics, 2018-2023
 
 ### Others:
@@ -19,6 +19,12 @@ Part-time Music Production. Love Anime.
 
 ### Contact:
 Email: iaspisw@outlook.com
+
+### Research Experience:
+Hong Kong University of Science and Technology
+Research Intern
+Advisor: Prof. Tong Zhang
+• Conducted research on music generation by natural language processing method. Accelerated the neural network training process using GPU, handled version incompatibility between Tensorflow and CUDA. Built TMUX for running multiple terminal sessions offline. Optimized and remodeled current music generation models: Music VAE and Music Transformer from the Google Magenta Project.
 
 ### To be finished:
 
