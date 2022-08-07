@@ -21,10 +21,7 @@ Part-time Music Production. Love Anime.
 Email: iaspisw@outlook.com
 
 ### Research Experience:
-Hong Kong University of Science and Technology
-Research Intern
-Advisor: Prof. Tong Zhang
-• Conducted research on music generation by natural language processing method. Accelerated the neural network training process using GPU, handled version incompatibility between Tensorflow and CUDA. Built TMUX for running multiple terminal sessions offline. Optimized and remodeled current music generation models: Music VAE and Music Transformer from the Google Magenta Project.
+Conducted research on music generation by natural language processing method. Optimized and remodeled current music generation models: Music VAE and Music Transformer from the Google Magenta Project.
 
 ### To be finished:
 
