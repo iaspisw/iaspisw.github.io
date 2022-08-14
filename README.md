@@ -9,6 +9,7 @@
 
 ### Education:
 🇭🇰 The Chinese University of Hong Kong, Faculty of Science, Department of Statistics, 2018-2023
+
 🇨🇳 Exchange to Shanghai Jiao Tong University, Zhiyuan College, 2021
 
 ### Others:
