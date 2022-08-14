@@ -8,7 +8,7 @@
 💻 Machine Learning, Reinforcement Learning, Computer Music, Time Series, Generative Model
 
 ### Education:
-🇭🇰 The Chinese University of Hong Kong, Faculty of Science, Department of Statistics, 2018-2023
+🇭🇰 The Chinese University of Hong Kong, Faculty of Science, Department of Statistics, Expected 2023
 
 🇨🇳 Exchange to Shanghai Jiao Tong University, Zhiyuan College, 2021
 
