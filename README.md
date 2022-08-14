@@ -19,9 +19,3 @@ Email: iaspisw@outlook.com
 ### Research Experience:
 Optimized and remodeled current music generation models: Music VAE and Music Transformer from the Google Magenta Project.
 
-### My Music:
-
-### To be Finished:
-
-1. MusicHelmholtzMachine
-2. MusicRBM
