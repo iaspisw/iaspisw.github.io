@@ -20,5 +20,3 @@
 
 ### Research Experience:
 Optimized and remodeled current music generation models: Music VAE and Music Transformer from the Google Magenta Project.
-
-### I'm looking for research assistant opportunities, please do not hesitate to contact me if you’re interested.
