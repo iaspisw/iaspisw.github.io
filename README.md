@@ -24,4 +24,4 @@ Optimized and remodeled current music generation models: Music VAE and Music Tra
 ### Others
 
 Moving to USA from Hong Kong & Shanghai now: I have been accepted into the Oregon State University, maybe you can see me at Portland, USA in the future. 
-(*ﾟ∀ﾟ*)
+(*ﾟ∀ﾟ*) My Graduate Major is Computer Science.
